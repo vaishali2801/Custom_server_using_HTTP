@@ -5,8 +5,8 @@ A simple custom HTTP server built using Node.js.
 This project demonstrates how to create and run a basic web server without using frameworks like Express, helping beginners understand how servers work at a core level.
 
 🖥️ Screenshot
-<img width="1280" height="832" alt="Screenshot 2026-02-18 at 9 40 18 PM" src="https://github.com/user-attachments/assets/68f08436-6576-4e25-9f0a-eb84cd7025a2" />
 
+<img width="1280" height="682" alt="Screenshot 2026-02-19 at 2 43 41 PM" src="https://github.com/user-attachments/assets/fd1e8618-61dc-4634-abcb-e73258f9e3e1" />
 
 📌 Server Output
 
